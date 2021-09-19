@@ -38,3 +38,5 @@
 ### Custom `mapReduce`
 
 ![image](https://user-images.githubusercontent.com/9085189/133935130-2fc7d398-5b60-42c4-b0a1-1ea78a00594f.png)
+
+The map and reduce functions combine orders by customer ids and lists out all the items each customer has purchased.
